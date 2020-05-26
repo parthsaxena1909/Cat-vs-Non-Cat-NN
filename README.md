@@ -1,2 +1,2 @@
-# Cat-or-Not-a-Cat-A-neural-network-project-
+# Cat-vs-Non-cat-
  A logistic regression classifier to recognize cats using neural network mindset in python
